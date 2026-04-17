@@ -1,6 +1,6 @@
 # ⚠️ Golden Week — Read This First
 
-Golden Week is Japan's biggest domestic travel event of the year. Your dates (April 23–May 7) overlap with it almost entirely. This is not a minor inconvenience — it will shape every decision you make.
+Golden Week is Japan's biggest domestic travel event of the year. Your trip ends May 1, so you only catch the first 3 days of it — but April 29 (USJ day) falls right on Showa Day, the first Golden Week holiday. Plan accordingly.
 
 ---
 
@@ -64,17 +64,18 @@ Book via the **SmartEX app** (English available) or at JR ticket offices.
 | **Nikko** | Popular domestic destination, very crowded |
 | **Nara** | Small, doesn't absorb crowds well |
 
-### Recommended Structure Around Golden Week
+### Your Structure Around Golden Week
 
 ```
-April 23–28 → Tokyo (arrive, explore, do day trips)
-April 27–28 → Travel to Kyoto BEFORE the rush hits
-April 29–May 1 → Kyoto (get early to sights — before 8 AM is not a joke)
-May 2–4 → Osaka (more urban, easier to absorb crowds)
-May 5–7 → Hiroshima + Miyajima (Golden Week ends; crowds drop sharply)
+April 22–26 → Tokyo (arrive, explore, day trips — before Golden Week)
+April 27     → Shinkansen to Kyoto (ahead of the surge)
+April 28     → Kyoto → Nara → Osaka (arrive before GW peak)
+April 29     → USJ (Showa Day — buy Express Pass, arrive at opening)
+April 30     → Osaka free day (GW is active but Osaka handles it better than Kyoto)
+May 1        → Depart KIX (GW still running, but you're out)
 ```
 
-The days **May 5–7 see a sharp drop** as the holiday ends and people return home.
+The good news: you leave before the worst of it (May 3–5). Your biggest Golden Week exposure is USJ on April 29 — which is why the Express Pass is non-negotiable.
 
 ### Visit Major Sights Before 8 AM
 

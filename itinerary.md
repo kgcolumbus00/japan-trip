@@ -1,33 +1,30 @@
-# Rough Itinerary — 15 Days (April 23 – May 7, 2026)
+# Itinerary — 10 Days (April 22 – May 1, 2026)
 
-> This skeleton is built around Golden Week (April 29–May 5). Kyoto is hit hardest — the structure gets you there before the worst of it and out before the tail end. Adjust as needed if you and your cousin travel separately or on different windows.
+> Open-jaw trip: fly into Tokyo (NRT/HND), fly out of Osaka (KIX). Route flows west naturally.
+> Traveling with cousin (19). USJ is locked in — build everything else around that.
 
 ---
 
-## The Logic
+## The Flow
 
 ```
-April 23–27 → Tokyo (arrive, recover, explore)
-April 27–28 → Day trip OR Hakone overnight (pre-Golden Week)
-April 28     → Travel to Kyoto BEFORE the rush
-April 29–May 1 → Kyoto (early morning tactics, see golden-week.md)
-May 1–2      → Nara day trip, then Osaka
-May 2–5      → Osaka + Himeji + Koyasan
-May 5–6      → Hiroshima + Miyajima Island
-May 7        → Depart
+April 22      → Tokyo (arrive)
+April 23–26   → Tokyo (explore, day trip)
+April 27      → Shinkansen to Kyoto
+April 28      → Kyoto → Nara → Osaka
+April 29      → Universal Studios Japan (USJ)
+April 30      → Osaka (free day — Hiroshima optional)
+May 1         → Depart from KIX (10:04 PM flight)
 ```
 
 ---
 
 ## Pre-Trip Booking Checklist
 
-- [ ] **Accommodation for ALL nights** (especially April 29–May 5 — book immediately)
-- [ ] **Shinkansen reserved seats** (JR opens 1 month ahead; set reminders starting March 29)
-- [ ] **Ryokan in Hakone** (1 night, pre-Golden Week — these sell fast year-round)
-- [ ] **Ghibli Museum lottery** (if interested — monthly lottery, separate ticket system)
-- [ ] **teamLab tickets** (sell out weeks ahead)
-- [ ] **Ashikaga Flower Park** wisteria tickets if adding that day trip (late April peak bloom)
-- [ ] **Koyasan shukubo** (temple lodging) if doing that night
+- [ ] **USJ Express Pass** — book at usj.co.jp now, it sells out. No Express Pass = 2+ hour waits.
+- [ ] **teamLab Planets or Borderless** — teamlab.art. Always sells out weeks ahead. Pick a Tokyo day.
+- [ ] **Shinkansen reserved seat (Tokyo → Kyoto)** — JR opens 1 month ahead. Book via SmartEX app or JR office.
+- [ ] **Accommodation for all nights** — April 29 falls on Golden Week (Showa Day), so Osaka hotel especially
 - [ ] **Flight + eSIM** before departure
 
 ---
@@ -36,204 +33,182 @@ May 7        → Depart
 
 ---
 
-### Day 1 — April 23 | Arrive Tokyo
+### Day 1 — April 22 (Wed) | Arrive Tokyo
 
-- Land at Narita (NRT) or Haneda (HND)
-- Get **Suica card** at airport JR ticket machine immediately — load ¥5,000
-- Activate **eSIM** if using one
+- Land at Narita (NRT) or Haneda (HND) — **prefer Haneda**, 35 min to city vs 60–90 min from Narita
+- Get **IC card (Suica or Pasmo)** at airport JR ticket machine — load ¥5,000
+- Activate eSIM if using one
 - Check into hotel, drop bags
-- Short walk in your neighborhood to orient yourself
 - Convenience store dinner — this is part of the experience, not a compromise
-- **Early night.** Jet lag is real.
+- Short walk around your neighborhood to orient
+- **Early night.** Jet lag is real. You need this.
 
-**Area recommendation:** Stay in Asakusa, Shinjuku, or Shimokitazawa. All are central with different characters.
+**Recommended area to stay:** Shinjuku or Asakusa — both central with different characters
 
 ---
 
-### Day 2 — April 24 | Tokyo: Old & New
+### Day 2 — April 23 (Thu) | Tokyo: Old Side
 
 **Morning:**
-- Senso-ji Temple (Asakusa) — get there before 8 AM to beat tour groups
+- Senso-ji Temple (Asakusa) — arrive before 8 AM to beat tour groups
 - Walk Nakamise shopping street after
 
 **Afternoon:**
-- Ueno Park (cherry trees will have some late-bloom stragglers or wisteria nearby)
-- Optional: Tokyo National Museum (¥1,000, one of the best in Asia)
-- Akihabara for electronics, retro gaming, anime — even if not an anime person, it's worth an hour
+- Akihabara — electronics, retro gaming, arcades, claw machines. Even if you're not an anime person, it's worth 2 hours.
+- Ueno area / park
 
 **Evening:**
-- Back to Asakusa for dinner along the side streets off the main strip
+- Side streets off Asakusa for dinner
+- Early night or explore Asakusa bars
 
 ---
 
-### Day 3 — April 25 | Tokyo: Modern Side
+### Day 3 — April 24 (Fri) | Tokyo: Modern Side
 
 **Morning:**
-- Meiji Shrine (Harajuku) — serene forested shrine in the middle of the city, free
-- Yoyogi Park if a weekend (street performers, picnic crowds, lively)
+- Meiji Shrine (Harajuku) — forested shrine in the middle of the city, free, serene
+- Yoyogi Park
 
 **Afternoon:**
-- Harajuku Takeshita Street (extremely chaotic youth fashion street — worth seeing once)
-- Omotesando (luxury shopping, incredible architecture — free to walk)
-- Shibuya Scramble crossing — go around 5–6 PM when it's busiest
+- Harajuku Takeshita Street — chaotic youth fashion, worth seeing once
+- Omotesando — luxury shopping district, incredible architecture, free to walk
+- Shibuya Scramble Crossing — go around 5–6 PM when it's at peak chaos
 
 **Evening:**
-- Shibuya for dinner
-- Shinjuku at night: Omoide Yokocho (Memory Lane — tiny grilling stalls, smoky, atmospheric), then Golden Gai (tiny bars, unique character, no cover charge to look)
+- Shinjuku: Omoide Yokocho (Memory Lane — tiny grilling stalls, smoky, atmospheric)
+- Then Golden Gai — dozens of tiny bars, each holds 6–10 people. One of the best bar experiences in the world.
+- Kabukicho if you want to walk through the entertainment district
 
 ---
 
-### Day 4 — April 26 | Day Trip from Tokyo
+### Day 4 — April 25 (Sat) | Day Trip: Kamakura
 
-**Option A: Nikko** (2.5 hrs by JR — book in advance if using reserved seat)
-Elaborate Tosho-gu shrine complex in ancient cedar forest. Ornate beyond anything in Tokyo. Less visited by foreign tourists than Kamakura. Full day recommended.
+- Take JR from Shinjuku/Shibuya (~1 hour south)
+- Great Buddha (Kotoku-in) — the bronze giant, 13 meters tall
+- Hase-dera temple — hillside gardens, ocean views
+- Walk between shrines along the trails
+- Coastal vibe, compact, very walkable — can do in a half day and be back for a Tokyo evening
+- **Evening back in Tokyo:** teamLab if you booked it, or Shimokitazawa (indie bars, vintage shops, younger local crowd)
 
-**Option B: Kamakura** (1 hr from Tokyo by JR)
-Great Buddha (Kotoku-in), Hase-dera temple, Tsurugaoka Hachimangu shrine, Enoshima Island nearby. Coastal, compact, very walkable. Good for a half-day.
-
-**Option C: Ashikaga Flower Park** (90 min by train)
-Late April is peak wisteria season — this park has enormous wisteria tunnels and pergolas that are genuinely one of Japan's great seasonal spectacles. Timed-entry tickets required, buy ahead. Best choice if you're here specifically in late April.
-
-**Option D: Hitachi Seaside Park** (2 hrs from Tokyo)
-Late April–early May is when millions of nemophila (baby blue eyes) flowers carpet the hillsides blue. Spectacular and unlike anything else. Add alongside Ashikaga or as a standalone.
+> **Alternative:** Nikko (2.5 hrs north) — elaborate Tosho-gu shrine complex, ancient cedar forest, more visually impressive but a full day commitment
 
 ---
 
-### Day 5 — April 27 | Hakone (1 Night Ryokan)
+### Day 5 — April 26 (Sun) | Tokyo: Last Full Day
 
-- Morning: Check out of Tokyo hotel, take Shinkansen to Odawara, then local train or bus into Hakone
-- Check into **ryokan** — this is your splurge night
-- Afternoon: Hakone Open Air Museum (¥1,600 — worth it, massive outdoor sculpture park)
-- Evening: Onsen bath at the ryokan, multi-course kaiseki dinner
-- Mt. Fuji view if the mountain is clear (more likely in early morning or late afternoon — clouds build midday)
+- teamLab Planets or Borderless if not done yet (book in advance — sells out)
+- Shimokitazawa — vintage shops, independent cafes, street music, best neighborhood for wandering
+- Roppongi if you want a club night — most international crowd in Tokyo, bigger venues
 
-**Use the Hakone Free Pass** (¥5,000 from Odawara) — covers buses, the ropeway, the lake ferry, and the Hakone Tozan railway within the area.
+**Pack tonight — Shinkansen is tomorrow morning**
 
 ---
 
-### Day 6 — April 28 | Hakone → Kyoto
+### Day 6 — April 27 (Mon) | Tokyo → Kyoto
 
-- Early morning: Another soak in the onsen before checkout
-- Take Shinkansen from Odawara to Kyoto (1.5 hrs)
-- **Goal: Arrive Kyoto today, before Golden Week starts tomorrow**
-- Check in, get oriented
-- Late afternoon: Walk Gion (the geisha district) at dusk — beautiful lanterns, machiya townhouses, occasional sighting of maiko/geiko in the early evening
+- Morning: Check out of Tokyo hotel
+- Take **Nozomi Shinkansen** (fastest, 2h15m) or **Hikari** (covered by JR Pass, 2h45m)
+- **Window seat on the right side heading west** — Mt. Fuji visible for ~30–45 seconds around Shin-Fuji Station. Have your phone ready.
+- Arrive Kyoto by midday
 
----
+**Afternoon in Kyoto:**
+- Drop bags at hotel
+- **Fushimi Inari** — thousands of orange torii gates up a mountain. If you can only go once, make it late afternoon when the light hits the gates. The full hike is 2–3 hours; even 30–45 minutes up is worth it.
 
-### Day 7 — April 29 | Kyoto: Fushimi Inari (Golden Week Day 1)
-
-- **Wake up early. Be at Fushimi Inari before 6:30 AM.** This is the most-visited shrine in Japan and it will be packed by 9 AM during Golden Week. At dawn it's atmospheric, misty, and nearly empty.
-- Hike as high as you have energy for — the full trail to the top takes ~2–3 hours. Even 30 minutes up is worth it.
-- Return to city mid-morning
-- Afternoon: Nishiki Market (narrow covered food market — free to walk, many free tastes), Pontocho alley for lunch
-- Evening: Rest. Golden Week crowds will be intense — save energy.
+**Evening:**
+- **Gion district** at dusk — machiya townhouses, lantern-lit lanes, possible maiko sighting on Hanamikoji Street around 5–6 PM. Walk slowly.
+- Dinner in Pontocho alley (narrow covered street of restaurants along the river)
 
 ---
 
-### Day 8 — April 30 | Kyoto: Arashiyama
+### Day 7 — April 28 (Tue) | Kyoto → Nara → Osaka
 
-- Early morning (same tactic): **Bamboo Grove before 8 AM** — magical before the crowds, chaotic after
-- Tenryu-ji Zen garden (¥500, worth it)
-- Sagano area walk
-- Arashiyama monkey park (short hike up a mountain for wild Japanese macaques with city views — ¥550)
-- Afternoon: Kinkaku-ji (Golden Pavilion) — crowds are unavoidable, go mid-afternoon when tour buses thin slightly
+**Early morning Kyoto:**
+- **Arashiyama Bamboo Grove before 8 AM** — at dawn it's atmospheric and nearly empty. By 10 AM it's wall-to-wall people.
+- Tenryu-ji Zen garden right next to it (¥500, worth it)
+- Nishiki Market if you have time — "Kyoto's kitchen," covered market street, great for snacking your way through
 
----
+**Afternoon — Nara (45 min from Kyoto by JR):**
+- Free-roaming deer in Nara Park — they will literally walk up to you and eat crackers from your hand (¥200/pack from vendors)
+- Todai-ji temple — Japan's largest bronze Buddha, genuinely impressive
+- This is the kind of thing you'd regret skipping. It's easy and unforgettable.
 
-### Day 9 — May 1 | Nara Day Trip + Move to Osaka
-
-- **Morning:** JR from Kyoto to Nara (45 min)
-- Nara deer park — deer roam freely and will approach you for crackers (¥200/pack from vendors)
-- Todai-ji temple — contains Japan's largest bronze Buddha, genuinely impressive
-- Kasuga Taisha shrine (free outer grounds)
-- **Afternoon:** Return to Kyoto, collect luggage, JR to Osaka (15 min)
-- Check into Osaka hotel, explore Dotonbori by night
+**Evening — move to Osaka (45 min from Nara by JR):**
+- Check into Osaka hotel
+- Hit **Dotonbori** tonight — neon-lit canal street, takoyaki stands, massive crab signs. This is peak Osaka energy and you want to arrive to it at night.
 
 ---
 
-### Day 10 — May 2 | Osaka
+### Day 8 — April 29 (Wed) | Universal Studios Japan
 
-- Osaka Castle in the morning (¥600 to enter the main keep — views from the top)
-- Kuromon Ichiba market (Osaka's "kitchen" — fresh food, street snacks, lively)
-- Dotonbori for street food: takoyaki (octopus balls), okonomiyaki (savory pancake), kushikatsu (skewered fried food) — this stretch is genuinely one of the best food streets in the world
-- Shinsekai neighborhood at night — retro, slightly gritty, blowfish restaurants everywhere
+- **Arrive at opening (8:30 or 9 AM)** — do not be late. Hit the biggest rides first.
+- **Express Pass is mandatory** — without it, top rides are 90–120 min waits. Book at usj.co.jp in advance.
+- **Nintendo World** is the standout area. Mario Kart: Koopa's Challenge and Donkey Kong Country are the must-dos.
+- Wizarding World of Harry Potter — still a great area even if you're not a HP person
+- Flying Dinosaur is the best coaster in the park
+- Stay through evening — the park looks incredible lit up at night
 
----
-
-### Day 11 — May 3 | Himeji Castle Day Trip (Golden Week Peak)
-
-- JR from Osaka to Himeji (35 min by Shinkansen, 60 min by regular JR — both covered if you have a pass)
-- **Himeji Castle** is Japan's finest surviving feudal castle — UNESCO listed, nicknamed the White Heron. Genuinely impressive inside and out.
-- Koko-en garden adjacent (¥310 — 9 connected traditional gardens, beautiful)
-- Return to Osaka by evening
-- **Why today:** Many Japanese are doing local activities on this peak holiday day. Himeji gets visitors but is more manageable than Kyoto or Osaka's major sites.
+> April 29 is Showa Day (start of Golden Week) — USJ will be busy. Express Pass is not optional on this day.
 
 ---
 
-### Day 12 — May 4 | Koyasan (Optional Overnight) or Osaka Rest Day
+### Day 9 — April 30 (Thu) | Osaka Free Day
 
-**Option A: Koyasan overnight (strong recommendation)**
-- Nankai Railway from Osaka Namba to Koyasan (~2 hours including cable car)
-- Check into a shukubo (temple lodging)
-- Okunoin Cemetery — Japan's largest cemetery, thousands of stone lanterns and moss-covered graves in ancient cedar forest; monks from the 9th century are buried here including the founder of Shingon Buddhism
-- Kongobuji temple complex
-- Vegetarian dinner and breakfast at temple
-- Morning prayers observation (optional)
+**Core Osaka:**
+- **Osaka Castle** in the morning — ¥600 to enter the keep, good views from the top, nice park around it
+- **Shinsekai** neighborhood — retro, slightly gritty, kushikatsu (fried skewers) everywhere. Rule: no double-dipping the sauce. Seriously. It's a thing.
+- **Shinsaibashi / Amerika-mura** — streetwear, vintage, cafes, younger crowd
 
-**Option B: Osaka rest + explore**
-- Umeda Sky Building observation deck (¥1,500)
-- Osaka Aquarium Kaiyukan (one of the world's best — ¥2,400)
-- More food exploration
-- Shopping at Shinsaibashi
+**Food you must eat in Osaka:**
+- Takoyaki: octopus balls — get them at Wanaka or Aizuya, not tourist stalls
+- Okonomiyaki: savory pancake, sit-down spot where you cook it yourself (Mizuno is a classic)
+- Kushikatsu: Shinsekai, order round after round
+- Yakiniku: Korean-style BBQ, order wagyu if you want to splurge once
 
----
+**Optional: Hiroshima day trip (ambitious but worth it if you have the energy)**
+- Shinkansen from Osaka to Hiroshima: ~45 min
+- Peace Memorial Museum (¥200) — one of the most important museums in the world, allow 2–3 hours minimum
+- Miyajima Island (ferry) — the floating torii gate, one of the most iconic images in Japan
+- Hiroshima-style okonomiyaki for dinner (layered with noodles, different from Osaka style)
+- Back to Osaka by late evening
+- This is a full, tiring day but the kind that stays with you
 
-### Day 13 — May 5 | → Hiroshima (Golden Week ends today)
-
-- Travel to Hiroshima by Shinkansen (45 min from Osaka)
-- **Peace Memorial Park and Atomic Bomb Dome** — allow 2–3 hours minimum. The Peace Memorial Museum (¥200) is one of the most important and moving museums in the world. Don't rush this.
-- Hiroshima-style okonomiyaki for dinner (different from Osaka style — layered with noodles)
-- **Golden Week crowds drop sharply today as the holiday ends and people return home.**
-
----
-
-### Day 14 — May 6 | Miyajima Island
-
-- Ferry from Hiroshima Ujina Port (¥200 each way, or free with JR Pass)
-- **Itsukushima Shrine** — the famous "floating" torii gate. Visit at high tide for the floating effect; at low tide you can walk up to the gate.
-- Mt. Misen hike (optional, ~2 hours up via trail or ropeway) — views over the Seto Inland Sea
-- Fresh oysters (Miyajima is famous for them — ¥200–400 per oyster at stalls)
-- Momiji manju (maple leaf-shaped cakes filled with red bean paste — the island specialty, buy from bakeries, not the tourist stalls)
-- Return to Hiroshima for the night
+**Evening (either way):**
+- Dotonbori and Namba for last night out in Japan
+- Karaoke in Shinsaibashi — private room, late night
 
 ---
 
-### Day 15 — May 7 | Depart
+### Day 10 — May 1 (Fri) | Osaka → Depart KIX
 
-**Option A:** Shinkansen to Tokyo (4.5 hrs) for evening international flight from Narita/Haneda
-**Option B:** Fly directly from Hiroshima Airport (HIJ) — limited international connections
-**Option C:** Shinkansen to Osaka and fly from Kansai International (KIX) — better international connections than Hiroshima
+- Flight departs **10:04 PM** from Kansai International (KIX)
+- Be at the airport by **7:00 PM** (3 hours before for international)
+- KIX from central Osaka: ~75 min by Haruka Express (JR) or Nankai Rapid (~45 min)
+- **Leave Osaka city by 5:30 PM at the latest**
 
-Allow 3–4 hours from city center to airport for international departures.
-
----
-
-## If Traveling at Different Times (Separate from Cousin)
-
-If you end up going solo or on different dates within the April 23–May 7 window:
-
-- **Earlier in the window (April 23–28):** Less Golden Week impact, but you'd need to leave Kyoto before April 29 or deal with full Golden Week there
-- **Later in the window (May 1–7):** Golden Week winds down by May 5; May 5–7 is dramatically less crowded. A May 1–7 window actually avoids the worst of it.
-- The itinerary above works as a solo trip — single rooms at business hotels are often cheaper and easier to book than twin rooms during Golden Week
+**Last day:**
+- Morning: slow breakfast, walk Dotonbori one more time
+- Konbini run — stock up on Japanese snacks for the flight and to bring home
+- Pick up any remaining souvenirs at Shinsaibashi or Kuromon Market
+- Head to airport mid-afternoon
 
 ---
 
-## What You'll Miss (That's Worth Knowing About)
+## What Got Cut (Worth Knowing About)
 
-These didn't make the cut for a 2-week itinerary but are worth considering if priorities shift:
+These didn't fit the 10-day timeline but are worth considering if you come back or extend:
 
-- **Kanazawa** — "Little Kyoto" without the crowds. Samurai district, Kenroku-en garden, incredible seafood market. Add 1–2 nights between Tokyo and Kyoto on the Hokuriku Shinkansen.
-- **Takayama** — Preserved Edo-period mountain town, Hida beef, sake breweries. Pair with Shirakawa-go UNESCO village (1 hr away). Between Tokyo and Kyoto if you take the scenic route.
-- **Kinosaki Onsen** — Hot spring resort town near Kyoto; walk between multiple onsen in yukata. A slower, traditional experience.
-- **Tohoku region** (north of Tokyo) — Far fewer foreign tourists, cherry blossoms in late April, Matsushima Bay, Nikko. Good option during Golden Week when everyone else is heading south.
+- **Hakone** — onsen ryokan with Mt. Fuji views. Would need a full extra day between Tokyo and Kyoto.
+- **Koyasan** — temple lodging in a mountain cemetery with thousands of stone lanterns. Spiritual, unique, quiet. Great if you want contrast to the city energy.
+- **Himeji Castle** — Japan's finest surviving feudal castle. 35 min from Osaka by Shinkansen.
+- **Kanazawa** — "Little Kyoto" without the crowds. Samurai district, Kenroku-en garden, excellent seafood.
+
+---
+
+## Three Things to Book Before You Leave
+
+| What | Where | Why It Can't Wait |
+|---|---|---|
+| USJ Express Pass | usj.co.jp | Sells out, especially on Golden Week days |
+| teamLab | teamlab.art | Always sells out weeks in advance |
+| Shinkansen Tokyo → Kyoto | SmartEX app or JR office | Reserved seats go fast during Golden Week window |
