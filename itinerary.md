@@ -1,31 +1,60 @@
 # Itinerary — 10 Days (April 22 – May 1, 2026)
 
-> Open-jaw trip: fly into Tokyo (NRT/HND), fly out of Osaka (KIX). Route flows west naturally.
-> Traveling with cousin (19). USJ is locked in — build everything else around that.
+> Open-jaw: fly into Tokyo (NRT/HND), fly out of Osaka (KIX).
+> Traveling with cousin (19). Vibe: nightlife, food, shopping, culture, nature — with room to breathe. Not a guided tour, not a party trip. Somewhere in the middle.
 
 ---
 
 ## The Flow
 
 ```
-April 22      → Tokyo (arrive)
-April 23–26   → Tokyo (explore, day trip)
-April 27      → Shinkansen to Kyoto
-April 28      → Kyoto → Nara → Osaka
-April 29      → Universal Studios Japan (USJ)
-April 30      → Osaka (free day — Hiroshima optional)
-May 1         → Depart from KIX (10:04 PM flight)
+April 22 (Wed)    → Depart Chicago
+April 23 (Thu)    → Land Tokyo — Day 1
+April 23–26       → Tokyo, Shinjuku (Oakwood Nishi-Shinjuku, 4 nights)
+April 24 (Fri)    → BIG NIGHT #1 Tokyo
+April 25 (Sat)    → teamLab Planets + BIG NIGHT #2 Tokyo  ✓ CONFIRMED
+April 26 (Sun)    → Hakone day trip + last night Tokyo
+April 27 (Mon)    → Shinkansen → Osaka (direct)
+April 27–May 1    → Osaka (cousin's 2-floor Airbnb, covered)
+April 29 (Wed)    → Universal Studios Japan  ✓ CONFIRMED
+May 1 (Fri)       → Last day Osaka → Depart KIX 10:04 PM
 ```
 
 ---
 
-## Pre-Trip Booking Checklist
+## Pre-Departure Checklist Status
 
-- [ ] **USJ Express Pass** — book at usj.co.jp now, it sells out. No Express Pass = 2+ hour waits.
-- [ ] **teamLab Planets or Borderless** — teamlab.art. Always sells out weeks ahead. Pick a Tokyo day.
-- [ ] **Shinkansen reserved seat (Tokyo → Kyoto)** — JR opens 1 month ahead. Book via SmartEX app or JR office.
-- [ ] **Accommodation for all nights** — April 29 falls on Golden Week (Showa Day), so Osaka hotel especially
-- [ ] **Flight + eSIM** before departure
+| Item | Status |
+|---|---|
+| USJ Express Pass | ✓ Confirmed |
+| teamLab Planets — April 25 | ✓ Confirmed — **verify ticket says April 25 (Sat), not April 24 (Fri)** |
+| Shinkansen Tokyo → Osaka (April 27) | Book on SmartEX app or at Tokyo Station |
+| Tokyo accommodation — Oakwood Nishi-Shinjuku | Confirm booking at discoverasr.com or Agoda |
+| Osaka accommodation | ✓ Cousin's 2-floor Airbnb, covered |
+| Suica — add to Apple/Google Pay | Do tonight before departure |
+| eSIM — install and ready to activate | Do tonight |
+| Visit Japan Web — immigration pre-registration | Do tonight (see below) |
+| Boarding passes — downloaded offline | Do at airport tomorrow |
+
+---
+
+## Immigration — What to Expect at Japanese Customs
+
+US citizens don't need a visa for stays under 90 days. Here's what happens when you land:
+
+**Before you fly (do tonight):**
+- Register at **Visit Japan Web** (vjw-lp.digital.go.jp) — Japan's official pre-registration for immigration and customs. Takes 10 minutes. You get a QR code that speeds up arrival. Do this for both of you.
+- Have your accommodation address in Japan ready to enter: **Oakwood Apartments Nishi-Shinjuku, 1-10-8 Nishi-Shinjuku, Shinjuku-ku, Tokyo**
+
+**At Japanese immigration (Narita or Haneda):**
+- Use the QR code from Visit Japan Web at the e-gate if available (faster)
+- Or fill out the paper Arrival Card on the plane — name, passport info, flight number, purpose of visit (Tourism), accommodation address
+- Have your return/onward ticket ready to show (your KIX departure May 1)
+- Immigration officer may ask how long you're staying, where you're going — answer honestly, it's routine
+
+**After immigration:**
+- Baggage claim, then customs — show QR code or fill out customs form
+- Nothing to declare for normal travelers = green lane, fast exit
 
 ---
 
@@ -33,182 +62,224 @@ May 1         → Depart from KIX (10:04 PM flight)
 
 ---
 
-### Day 1 — April 22 (Wed) | Arrive Tokyo
+### Day 0 — April 22 (Wed) | Depart Chicago
 
-- Land at Narita (NRT) or Haneda (HND) — **prefer Haneda**, 35 min to city vs 60–90 min from Narita
-- Get **IC card (Suica or Pasmo)** at airport JR ticket machine — load ¥5,000
-- Activate eSIM if using one
-- Check into hotel, drop bags
-- Convenience store dinner — this is part of the experience, not a compromise
-- Short walk around your neighborhood to orient
-- **Early night.** Jet lag is real. You need this.
-
-**Recommended area to stay:** Shinjuku or Asakusa — both central with different characters
+- Flight out of Chicago (ORD) to Tokyo
+- Sleep on the plane as much as you can — you land at a normal time but your body will fight you
+- Set your phone clock to Japan time (JST, UTC+9) right when you board
 
 ---
 
-### Day 2 — April 23 (Thu) | Tokyo: Old Side
+### Day 1 — April 23 (Thu) | Arrive Tokyo
+
+**At the airport:**
+- Immigration + customs (see above — Visit Japan Web QR code makes this fast)
+- **Get Suica at a JR ticket machine** if you didn't add it to Apple/Google Pay — load ¥5,000
+- Haneda (HND) → Shinjuku: ~35 min by Keikyu/Tokyo Monorail + transfer. Narita (NRT) → Shinjuku: ~60–90 min by Narita Express. Haneda is much better.
+
+**Settling in:**
+- Check into Oakwood Nishi-Shinjuku — serviced apartment, washer/dryer, separate rooms, walking distance to everything
+- Drop bags, shower, get oriented
+- **Hit a 7-Eleven ATM** — withdraw ¥30,000–50,000 cash before you do anything else
+
+**First night:**
+- Walk Shinjuku to get your bearings
+- **Omoide Yokocho (Memory Lane)** — narrow alley behind Shinjuku Station, tiny smoky grilling stalls. Grab food here.
+- **Golden Gai** — 200+ bars each the size of a closet, usually 6–8 seats, each one different. No cover to look around. This is a legendary Tokyo experience.
+- Keep it lighter tonight — you're jet-lagged and the real big nights are Friday and Saturday
+
+---
+
+### Day 2 — April 24 (Fri) | BIG NIGHT #1 — Shibuya/Harajuku + Shinjuku
 
 **Morning:**
-- Senso-ji Temple (Asakusa) — arrive before 8 AM to beat tour groups
-- Walk Nakamise shopping street after
+- Meiji Shrine in Harajuku — forested, peaceful, worth doing once. Go before 10 AM.
+- **Harajuku Takeshita Street** — chaotic youth fashion, wild clothes, weird food on sticks. About 20 minutes of it is perfect.
 
 **Afternoon:**
-- Akihabara — electronics, retro gaming, arcades, claw machines. Even if you're not an anime person, it's worth 2 hours.
-- Ueno area / park
+- Walk **Omotesando** — the upscale designer strip running from Harajuku toward Shibuya. Japanese brands, flagship stores, good architecture.
+- **Shibuya** — end at Shibuya Scramble Crossing at 5–6 PM when it's at full chaos. Watch from the second floor of Starbucks or just stand in it.
+- Shibuya 109 if you want streetwear browsing
+
+**Evening — this is the big night:**
+- Dinner in Shinjuku
+- **Golden Gai** — pick a different bar from last night
+- **Kabukicho** — walk the entertainment district. Neon, arcades, energy. Japan's biggest red-light/entertainment zone, fine to walk through and absorb.
+- **Karaoke** to close the night — Shinjuku has dozens of locations (Karaoke-kan, Big Echo, Joysound). Private room, order drinks and food through a machine, go until 1–2 AM. Do this at least once.
+- Trains stop around midnight. Options: head back by midnight or stay out until first train at ~5 AM. Big nights you stay out.
+
+---
+
+### Day 3 — April 25 (Sat) | teamLab Planets + BIG NIGHT #2
+
+> **Note:** April 25 is Saturday, not Friday. If your teamLab ticket confirmation says April 24 (Friday), that's different — double-check.
+
+**Morning — slow:**
+- Sleep in. You were out until 2+ AM. Do not force this morning.
+- Convenience store breakfast — 7-Eleven onigiri, hot coffee, fried chicken. This is the move.
+
+**Afternoon — teamLab Planets (Toyosu):**
+- ✓ Ticket confirmed — arrive at your booked time slot
+- **Toyosu** is ~25 min from Shinjuku via Yurakucho/Yurikamome Line
+- Allow 90 min to 2 hours — the experience is immersive (water rooms, mirror infinity rooms, flower projections)
+- Wear or bring socks — some zones require bare feet, socks for transitions
+- Go slow. This is not a rush-through spot.
+
+**Evening — Big Night #2:**
+- Head back to Shinjuku, get food
+- **Omoide Yokocho** for drinks and skewers before going out
+- Explore a different part of Shinjuku or try **Roppongi** — more international crowd, busier on Saturdays, different vibe from Kabukicho
+- Karaoke again if you want. Or just bar hop until the sun comes up.
+- No commitments Sunday morning — sleep in.
+
+---
+
+### Day 4 — April 26 (Sun) | Hakone Day Trip + Last Night Tokyo
+
+> Early start needed. Leave Shinjuku by 7:30–8:00 AM.
+
+**Hakone (nature day):**
+- **Odakyu Romancecar** from Shinjuku Station to Hakone-Yumoto — ~90 min, ~¥2,470 each way. Buy at Shinjuku Station (counter or machine). Limited express, scenic, comfortable.
+- You don't need to do everything in Hakone. Pick 2–3:
+  - **Lake Ashi (Ashinoko)** — volcanic lake, Mt. Fuji views if the weather is clear, pirate ship ferry across the lake (¥1,200)
+  - **Owakudani** — active volcanic valley, sulfur vents, cook your own black egg (the yolk turns black from sulfur, tastes like a normal egg). Cable car up from Hakone-Yumoto area.
+  - **Onsen** — Hakone is famous for hot springs. A public bath (sento/onsen) is ¥800–1,500 and a real Japanese cultural experience. Try Tenzan Tohji-kyo or Kappa Tengoku — both accept non-tattooed visitors, clothes-off traditional style.
+- Return to Shinjuku by 6–7 PM
+
+**Evening — last night in Tokyo:**
+- Lighter night — you're checking out tomorrow morning
+- Dinner in Shinjuku or wherever you end up
+- **Don Quijote (Donki)** in Shinjuku for late-night snack shopping and cheap souvenirs before Osaka
+- Pack tonight. Consider shipping heavy bags via **takkyubin** to your Osaka Airbnb — ask Oakwood front desk to arrange it the morning of checkout. ¥1,500–2,000/bag, arrives at your Osaka address next day.
+
+---
+
+### Day 5 — April 27 (Mon) | Shinkansen → Osaka
+
+- Morning: Check out of Oakwood, grab bags (or confirm takkyubin shipped yesterday)
+- Head to **Tokyo Station** or **Shinagawa** for the Shinkansen
+- **Nozomi** (fastest, 2h25m) or **Hikari** (covered by JR Pass if you have one, 2h45m) to **Shin-Osaka**
+- **Sit on the right side (D/E seats) heading west** — Mt. Fuji is visible for about 30–45 seconds around Shin-Fuji Station. Have your phone out.
+
+**Arrive Osaka:**
+- Shin-Osaka → cousin's Airbnb — figure out the address and transit route in advance
+- Drop bags, rest, get oriented
+- Coin lockers at Shin-Osaka if you arrive before the Airbnb is ready
+
+**First night in Osaka:**
+- **Dotonbori** at night — neon canal, massive crab signs, takoyaki everywhere, packed with people. Walk in hungry. This is peak Osaka energy and you want to experience it for the first time at night.
+- Try: **takoyaki** (Wanaka on Dotonbori is good), **kushikatsu** (fried skewers — rule: no double-dipping the sauce), **okonomiyaki** (savory pancake)
+- Namba and **Shinsaibashi** are right next to Dotonbori — walk through
+
+---
+
+### Day 6 — April 28 (Tue) | Osaka: Shop + Explore
+
+**Morning/Afternoon — shopping and neighborhoods:**
+- **Amerika-mura (America Village)** — vintage clothing, streetwear, youth culture. Compact area in Shinsaibashi. Best for unique pieces.
+- **Shinsaibashi** shopping arcade — covered pedestrian mall, mix of everything from streetwear to Japanese goods
+- **Den Den Town** — Osaka's Akihabara. Electronics, gaming, tech. Smaller than Akihabara but worth a few hours.
+- **Kuromon Ichiba Market** — Osaka's food market, fresh seafood, street food, chaotic and fun. Go for lunch.
 
 **Evening:**
-- Side streets off Asakusa for dinner
-- Early night or explore Asakusa bars
+- **Shinsekai** neighborhood — old school Osaka, gritty, retro, blowfish restaurants everywhere. Kushikatsu bars on every corner. The rule: no double-dipping the sauce.
+- Dotonbori and Namba for the night
 
 ---
 
-### Day 3 — April 24 (Fri) | Tokyo: Modern Side
+### Day 7 — April 29 (Wed) | Universal Studios Japan
 
-**Morning:**
-- Meiji Shrine (Harajuku) — forested shrine in the middle of the city, free, serene
-- Yoyogi Park
+> ✓ Express Pass confirmed. **Arrive at park opening (8:30 or 9:00 AM). Do not be late.**
 
-**Afternoon:**
-- Harajuku Takeshita Street — chaotic youth fashion, worth seeing once
-- Omotesando — luxury shopping district, incredible architecture, free to walk
-- Shibuya Scramble Crossing — go around 5–6 PM when it's at peak chaos
+**Park strategy:**
+- April 29 is Showa Day — a national holiday. This is Golden Week. Without the Express Pass you'd be waiting 2+ hours per ride. With it, you're fine.
+- **Nintendo World** first — Mario Kart: Koopa's Challenge is the standout, and Donkey Kong Country opened in 2024. The area itself is insanely designed.
+- **Wizarding World of Harry Potter** — good even if you're not a HP person. Butterbeer is worth it.
+- **The Flying Dinosaur** — best roller coaster in the park, suspended coaster, incredible
+- **Hollywood Dream** (The Ride) — classic, you can hear music through headphones while riding
+- Stay through the evening — the park lights up differently at night and the energy shifts
 
-**Evening:**
-- Shinjuku: Omoide Yokocho (Memory Lane — tiny grilling stalls, smoky, atmospheric)
-- Then Golden Gai — dozens of tiny bars, each holds 6–10 people. One of the best bar experiences in the world.
-- Kabukicho if you want to walk through the entertainment district
+**This is a full day. You'll be exhausted. That's fine — take it easy tonight.**
 
 ---
 
-### Day 4 — April 25 (Sat) | Day Trip: Kamakura
+### Day 8 — April 30 (Thu) | Kyoto or Nara Day Trip
 
-- Take JR from Shinjuku/Shibuya (~1 hour south)
-- Great Buddha (Kotoku-in) — the bronze giant, 13 meters tall
-- Hase-dera temple — hillside gardens, ocean views
-- Walk between shrines along the trails
-- Coastal vibe, compact, very walkable — can do in a half day and be back for a Tokyo evening
-- **Evening back in Tokyo:** teamLab if you booked it, or Shimokitazawa (indie bars, vintage shops, younger local crowd)
+Pick one — doing both in a day is rushed.
 
-> **Alternative:** Nikko (2.5 hrs north) — elaborate Tosho-gu shrine complex, ancient cedar forest, more visually impressive but a full day commitment
+**Option A — Kyoto (15 min from Osaka by Shinkansen/JR):**
+- **Fushimi Inari** — thousands of orange torii gates up a mountain. Go as early as possible before crowds. You don't need to hike all the way up — 30–45 min in is enough. Surreal at any time of day.
+- **Gion district** — lantern-lit lanes, traditional Kyoto townhouses, quiet. Walk slowly. Evening is best.
+- **Pontocho alley** — narrow covered street of restaurants along the river. Good for dinner.
+- *Optional:* Arashiyama Bamboo Grove — go before 8 AM if you do this, otherwise it's wall-to-wall tourists
 
----
+**Option B — Nara (45 min from Osaka by JR Yamatoji Line):**
+- Free-roaming deer in **Nara Park** — they walk right up to you. Buy deer crackers (¥200/pack from vendors) and they will eat from your hand. This sounds like a minor thing and it's one of the best hours of the whole trip.
+- **Todai-ji** — Japan's largest bronze Buddha. You're already there, worth seeing.
+- Easy half-day, you're back in Osaka by afternoon
 
-### Day 5 — April 26 (Sun) | Tokyo: Last Full Day
-
-- teamLab Planets or Borderless if not done yet (book in advance — sells out)
-- Shimokitazawa — vintage shops, independent cafes, street music, best neighborhood for wandering
-- Roppongi if you want a club night — most international crowd in Tokyo, bigger venues
-
-**Pack tonight — Shinkansen is tomorrow morning**
+**Evening — Thursday night out in Osaka:**
+- Dotonbori and Namba
+- This is a good night to stay out later — no hard commitment the next day besides packing
 
 ---
 
-### Day 6 — April 27 (Mon) | Tokyo → Kyoto
+### Day 9 — May 1 (Fri) | Last Day Osaka → Depart KIX
 
-- Morning: Check out of Tokyo hotel
-- Take **Nozomi Shinkansen** (fastest, 2h15m) or **Hikari** (covered by JR Pass, 2h45m)
-- **Window seat on the right side heading west** — Mt. Fuji visible for ~30–45 seconds around Shin-Fuji Station. Have your phone ready.
-- Arrive Kyoto by midday
+**Flight:** 10:04 PM from Kansai International (KIX) — **leave Osaka by 5:30 PM at the latest**
 
-**Afternoon in Kyoto:**
-- Drop bags at hotel
-- **Fushimi Inari** — thousands of orange torii gates up a mountain. If you can only go once, make it late afternoon when the light hits the gates. The full hike is 2–3 hours; even 30–45 minutes up is worth it.
+**Morning — slow, no rush:**
+- Last walk through Dotonbori while it's quiet in the morning
+- **Osaka Castle** if you haven't been (¥600, nice park around it, good views)
+- Slow breakfast somewhere local
 
-**Evening:**
-- **Gion district** at dusk — machiya townhouses, lantern-lit lanes, possible maiko sighting on Hanamikoji Street around 5–6 PM. Walk slowly.
-- Dinner in Pontocho alley (narrow covered street of restaurants along the river)
+**Afternoon — final run:**
+- Konbini haul — Japanese snacks to bring home: Calbee chips, regional Kit Kat flavors, Pocky, Meiji chocolate, good tea
+- Last souvenirs at Shinsaibashi if you haven't grabbed them
+- Pack bags, confirm nothing left behind at the Airbnb
 
----
-
-### Day 7 — April 28 (Tue) | Kyoto → Nara → Osaka
-
-**Early morning Kyoto:**
-- **Arashiyama Bamboo Grove before 8 AM** — at dawn it's atmospheric and nearly empty. By 10 AM it's wall-to-wall people.
-- Tenryu-ji Zen garden right next to it (¥500, worth it)
-- Nishiki Market if you have time — "Kyoto's kitchen," covered market street, great for snacking your way through
-
-**Afternoon — Nara (45 min from Kyoto by JR):**
-- Free-roaming deer in Nara Park — they will literally walk up to you and eat crackers from your hand (¥200/pack from vendors)
-- Todai-ji temple — Japan's largest bronze Buddha, genuinely impressive
-- This is the kind of thing you'd regret skipping. It's easy and unforgettable.
-
-**Evening — move to Osaka (45 min from Nara by JR):**
-- Check into Osaka hotel
-- Hit **Dotonbori** tonight — neon-lit canal street, takoyaki stands, massive crab signs. This is peak Osaka energy and you want to arrive to it at night.
+**Getting to KIX:**
+- From Namba: **Nankai Rapid (Kansai Airport Express)** → ~45 min, ¥920
+- From Shin-Osaka: **Haruka Express (JR)** → ~75 min, ¥1,880 (or with IC card discount)
+- Leave no later than **5:30 PM** from central Osaka
+- International check-in: aim to be at KIX by 7:00 PM
 
 ---
 
-### Day 8 — April 29 (Wed) | Universal Studios Japan
+## Shopping Map
 
-- **Arrive at opening (8:30 or 9 AM)** — do not be late. Hit the biggest rides first.
-- **Express Pass is mandatory** — without it, top rides are 90–120 min waits. Book at usj.co.jp in advance.
-- **Nintendo World** is the standout area. Mario Kart: Koopa's Challenge and Donkey Kong Country are the must-dos.
-- Wizarding World of Harry Potter — still a great area even if you're not a HP person
-- Flying Dinosaur is the best coaster in the park
-- Stay through evening — the park looks incredible lit up at night
-
-> April 29 is Showa Day (start of Golden Week) — USJ will be busy. Express Pass is not optional on this day.
-
----
-
-### Day 9 — April 30 (Thu) | Osaka Free Day
-
-**Core Osaka:**
-- **Osaka Castle** in the morning — ¥600 to enter the keep, good views from the top, nice park around it
-- **Shinsekai** neighborhood — retro, slightly gritty, kushikatsu (fried skewers) everywhere. Rule: no double-dipping the sauce. Seriously. It's a thing.
-- **Shinsaibashi / Amerika-mura** — streetwear, vintage, cafes, younger crowd
-
-**Food you must eat in Osaka:**
-- Takoyaki: octopus balls — get them at Wanaka or Aizuya, not tourist stalls
-- Okonomiyaki: savory pancake, sit-down spot where you cook it yourself (Mizuno is a classic)
-- Kushikatsu: Shinsekai, order round after round
-- Yakiniku: Korean-style BBQ, order wagyu if you want to splurge once
-
-**Optional: Hiroshima day trip (ambitious but worth it if you have the energy)**
-- Shinkansen from Osaka to Hiroshima: ~45 min
-- Peace Memorial Museum (¥200) — one of the most important museums in the world, allow 2–3 hours minimum
-- Miyajima Island (ferry) — the floating torii gate, one of the most iconic images in Japan
-- Hiroshima-style okonomiyaki for dinner (layered with noodles, different from Osaka style)
-- Back to Osaka by late evening
-- This is a full, tiring day but the kind that stays with you
-
-**Evening (either way):**
-- Dotonbori and Namba for last night out in Japan
-- Karaoke in Shinsaibashi — private room, late night
+| Location | What You're There For |
+|---|---|
+| Harajuku Takeshita St (Tokyo) | Wild street fashion, weird food, unique pieces |
+| Omotesando (Tokyo) | Japanese designer brands, upscale, good architecture |
+| Shibuya 109 (Tokyo) | Youth streetwear, multi-floor mall |
+| Akihabara (Tokyo) | Tech, electronics, gaming multi-story stores |
+| Nakamise St, Asakusa (Tokyo) | Traditional goods — katana, yukata robes, fans, ceramics |
+| Shinsaibashi (Osaka) | Mixed arcade, streetwear, Japanese goods |
+| Amerika-mura (Osaka) | Vintage, streetwear, youth culture, best for unique finds |
+| Den Den Town (Osaka) | Electronics, Osaka's version of Akihabara |
 
 ---
 
-### Day 10 — May 1 (Fri) | Osaka → Depart KIX
+## Osaka Food Hit List
 
-- Flight departs **10:04 PM** from Kansai International (KIX)
-- Be at the airport by **7:00 PM** (3 hours before for international)
-- KIX from central Osaka: ~75 min by Haruka Express (JR) or Nankai Rapid (~45 min)
-- **Leave Osaka city by 5:30 PM at the latest**
+Before you leave, eat these:
 
-**Last day:**
-- Morning: slow breakfast, walk Dotonbori one more time
-- Konbini run — stock up on Japanese snacks for the flight and to bring home
-- Pick up any remaining souvenirs at Shinsaibashi or Kuromon Market
-- Head to airport mid-afternoon
-
----
-
-## What Got Cut (Worth Knowing About)
-
-These didn't fit the 10-day timeline but are worth considering if you come back or extend:
-
-- **Hakone** — onsen ryokan with Mt. Fuji views. Would need a full extra day between Tokyo and Kyoto.
-- **Koyasan** — temple lodging in a mountain cemetery with thousands of stone lanterns. Spiritual, unique, quiet. Great if you want contrast to the city energy.
-- **Himeji Castle** — Japan's finest surviving feudal castle. 35 min from Osaka by Shinkansen.
-- **Kanazawa** — "Little Kyoto" without the crowds. Samurai district, Kenroku-en garden, excellent seafood.
-
----
-
-## Three Things to Book Before You Leave
-
-| What | Where | Why It Can't Wait |
+| Food | Where | Notes |
 |---|---|---|
-| USJ Express Pass | usj.co.jp | Sells out, especially on Golden Week days |
-| teamLab | teamlab.art | Always sells out weeks in advance |
-| Shinkansen Tokyo → Kyoto | SmartEX app or JR office | Reserved seats go fast during Golden Week window |
+| Takoyaki | Wanaka (Dotonbori) | Not the tourist stalls — Wanaka or Aizuya |
+| Okonomiyaki | Sit-down place, cook it yourself | Savory pancake, can add wagyu |
+| Kushikatsu | Shinsekai | Fried skewers, NO double-dipping the sauce |
+| Yakiniku (wagyu) | Spend money on this once | Korean BBQ-style, order wagyu if you're splurging on anything |
+| Ramen | Find a busy local shop | Look for the ones with a line |
+
+---
+
+## Logistics — Key Reminders
+
+- **Trains stop ~midnight** — on big nights, either be heading home by 11:30 PM or plan to stay out until first train ~5 AM
+- **Cash** — always have ¥5,000–15,000 on you. 7-Eleven ATMs are everywhere and accept foreign cards.
+- **Google Maps transit mode** is excellent for Japan routing
+- **Tipping: DO NOT TIP.** Ever. It can be awkward and offensive. The price is the price.
+- **Shoes off** at ryokan, traditional guesthouses, some restaurants — watch for the step up at the entrance
+- **Escalator etiquette** — stand left in Tokyo, stand right in Osaka
