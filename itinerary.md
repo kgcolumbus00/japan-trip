@@ -8,11 +8,11 @@
 ## The Flow
 
 ```
-April 22 (Wed)    → Depart Chicago
+April 22 (Wed)    → Depart Columbus (CMH)
 April 23 (Thu)    → Land Tokyo — Day 1
 April 23–26       → Tokyo, Shinjuku (Oakwood Nishi-Shinjuku, 4 nights)
-April 24 (Fri)    → BIG NIGHT #1 Tokyo
-April 25 (Sat)    → teamLab Planets + BIG NIGHT #2 Tokyo  ✓ CONFIRMED
+April 24 (Fri)    → teamLab Planets afternoon + BIG NIGHT #1  ✓ CONFIRMED
+April 25 (Sat)    → Harajuku/Shibuya/Omotesando + BIG NIGHT #2
 April 26 (Sun)    → Hakone day trip + last night Tokyo
 April 27 (Mon)    → Shinkansen → Osaka (direct)
 April 27–May 1    → Osaka (cousin's 2-floor Airbnb, covered)
@@ -27,7 +27,7 @@ May 1 (Fri)       → Last day Osaka → Depart KIX 10:04 PM
 | Item | Status |
 |---|---|
 | USJ Express Pass | ✓ Confirmed |
-| teamLab Planets — April 25 | ✓ Confirmed — **verify ticket says April 25 (Sat), not April 24 (Fri)** |
+| teamLab Planets — April 24 (Fri) | ✓ Confirmed |
 | Shinkansen Tokyo → Osaka (April 27) | Book on SmartEX app or at Tokyo Station |
 | Tokyo accommodation — Oakwood Nishi-Shinjuku | Confirm booking at discoverasr.com or Agoda |
 | Osaka accommodation | ✓ Cousin's 2-floor Airbnb, covered |
@@ -62,9 +62,9 @@ US citizens don't need a visa for stays under 90 days. Here's what happens when 
 
 ---
 
-### Day 0 — April 22 (Wed) | Depart Chicago
+### Day 0 — April 22 (Wed) | Depart Columbus
 
-- Flight out of Chicago (ORD) to Tokyo
+- Flight out of Columbus (CMH) to Tokyo
 - Sleep on the plane as much as you can — you land at a normal time but your body will fight you
 - Set your phone clock to Japan time (JST, UTC+9) right when you board
 
@@ -90,47 +90,50 @@ US citizens don't need a visa for stays under 90 days. Here's what happens when 
 
 ---
 
-### Day 2 — April 24 (Fri) | BIG NIGHT #1 — Shibuya/Harajuku + Shinjuku
+### Day 2 — April 24 (Fri) | teamLab Planets + BIG NIGHT #1
 
-**Morning:**
-- Meiji Shrine in Harajuku — forested, peaceful, worth doing once. Go before 10 AM.
-- **Harajuku Takeshita Street** — chaotic youth fashion, wild clothes, weird food on sticks. About 20 minutes of it is perfect.
-
-**Afternoon:**
-- Walk **Omotesando** — the upscale designer strip running from Harajuku toward Shibuya. Japanese brands, flagship stores, good architecture.
-- **Shibuya** — end at Shibuya Scramble Crossing at 5–6 PM when it's at full chaos. Watch from the second floor of Starbucks or just stand in it.
-- Shibuya 109 if you want streetwear browsing
-
-**Evening — this is the big night:**
-- Dinner in Shinjuku
-- **Golden Gai** — pick a different bar from last night
-- **Kabukicho** — walk the entertainment district. Neon, arcades, energy. Japan's biggest red-light/entertainment zone, fine to walk through and absorb.
-- **Karaoke** to close the night — Shinjuku has dozens of locations (Karaoke-kan, Big Echo, Joysound). Private room, order drinks and food through a machine, go until 1–2 AM. Do this at least once.
-- Trains stop around midnight. Options: head back by midnight or stay out until first train at ~5 AM. Big nights you stay out.
-
----
-
-### Day 3 — April 25 (Sat) | teamLab Planets + BIG NIGHT #2
-
-> **Note:** April 25 is Saturday, not Friday. If your teamLab ticket confirmation says April 24 (Friday), that's different — double-check.
-
-**Morning — slow:**
-- Sleep in. You were out until 2+ AM. Do not force this morning.
+**Morning — easy start:**
+- Sleep in a bit. First real full day, you're still adjusting.
 - Convenience store breakfast — 7-Eleven onigiri, hot coffee, fried chicken. This is the move.
+- Walk Shinjuku, explore the neighborhood, no agenda
 
 **Afternoon — teamLab Planets (Toyosu):**
-- ✓ Ticket confirmed — arrive at your booked time slot
-- **Toyosu** is ~25 min from Shinjuku via Yurakucho/Yurikamome Line
+- ✓ Ticket confirmed for April 24 — arrive at your booked time slot
+- **Toyosu** is ~25 min from Shinjuku via Yurakucho/Yurikamome Line — straightforward ride
 - Allow 90 min to 2 hours — the experience is immersive (water rooms, mirror infinity rooms, flower projections)
 - Wear or bring socks — some zones require bare feet, socks for transitions
 - Go slow. This is not a rush-through spot.
+- Back in Shinjuku by ~5–6 PM
+
+**Evening — Big Night #1:**
+- Rest, shower, eat dinner
+- **Omoide Yokocho (Memory Lane)** — smoky grilling alley behind Shinjuku Station, great for food and drinks before going out
+- **Golden Gai** — dozens of tiny bars, 6–8 seats each, pick by vibe
+- **Kabukicho** — walk the entertainment district, absorb the energy
+- **Karaoke** to close — private room, order food and drinks through a machine, go until 1–2 AM
+- No commitments Saturday morning — stay out as long as you want
+
+---
+
+### Day 3 — April 25 (Sat) | Harajuku/Shibuya/Omotesando + BIG NIGHT #2
+
+**Morning — slow start:**
+- You were out until 2+ AM. Sleep in. Do not force this morning.
+- Convenience store breakfast whenever you wake up.
+
+**Afternoon — shopping and city culture:**
+- **Meiji Shrine** (Harajuku) — forested, peaceful, 30 minutes, worth doing once. Go mid-afternoon when the crowds thin.
+- **Harajuku Takeshita Street** — chaotic youth fashion, weird food on sticks, about 20 minutes is perfect
+- Walk **Omotesando** — upscale Japanese designer strip heading toward Shibuya. Good architecture, good stores.
+- **Shibuya Scramble Crossing** at 5–6 PM — peak chaos, hundreds of people crossing at once. Watch from Starbucks second floor or just stand in the middle of it.
+- Shibuya 109 for streetwear browsing if you want
 
 **Evening — Big Night #2:**
-- Head back to Shinjuku, get food
-- **Omoide Yokocho** for drinks and skewers before going out
-- Explore a different part of Shinjuku or try **Roppongi** — more international crowd, busier on Saturdays, different vibe from Kabukicho
-- Karaoke again if you want. Or just bar hop until the sun comes up.
-- No commitments Sunday morning — sleep in.
+- Head back toward Shinjuku for dinner
+- Try **Roppongi** for a different vibe — more international crowd, busier on Saturdays, different energy from Kabukicho
+- Or stay in Shinjuku and explore more of Golden Gai
+- Karaoke again or just bar hop until the sun comes up
+- No commitments Sunday — but Hakone is an early start, so judge how late you go
 
 ---
 

@@ -7,8 +7,7 @@
 ## CONFIRMED — Already Done
 
 - [x] **USJ Express Pass** — ✓ Confirmed for April 29 (Showa Day / Golden Week)
-- [x] **teamLab Planets** — ✓ Confirmed
-  - > ⚠️ **Check your confirmation:** April 25 is a **Saturday**, not Friday. If your ticket says April 24 (Fri) that's a different day — verify now.
+- [x] **teamLab Planets** — ✓ Confirmed for **April 24 (Friday)**
 - [x] **Osaka accommodation** — ✓ Cousin's 2-floor Airbnb with separate rooms, covered
 
 ---
